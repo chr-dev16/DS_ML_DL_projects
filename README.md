@@ -1,6 +1,6 @@
 # DS_ML_DL_projects
 
-I contributed to various projects in the areas of Data Science, Machine Learning, Deep Learning during my studies. This is a collection of some of them.
+I contributed to various projects in the areas of Data Science, Machine Learning, and Deep Learning during my studies. This is a collection of some of them.
 
 ##  Business Data Analytics
 
