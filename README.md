@@ -16,7 +16,7 @@ The task was to predict whether online shopping sessions are concluded with a pu
 
 ## Deep Neural Networks
 
-For our course mini-project we selected the task of hand gesture recognition. We took 468 photos, segmented them and performed image classification through a newly developed CNN and via transfer learning.
+For our course project we selected the task of hand gesture recognition. We took 468 photos, segmented them and performed image classification through a newly developed CNN and via transfer learning.
 
 ## Segmentation of Satellite Imagery
 
